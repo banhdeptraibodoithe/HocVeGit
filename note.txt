@@ -1,0 +1,7 @@
+các câu lệnh git cơ bản:
+repositoty: kho chứa
+1. local repositoty: kho trên pc của mình
+2. remote repositoty: kho đám mây
++ git init: tạo repositoty ở local
++ git add . : Đẩy tất cả các file vào trong vùng nhớ
++ git commit -m "...": đẩy từ bộ nhớ tạm thời vào local repositoty và đánh dấu 1 mốc time tại đây
