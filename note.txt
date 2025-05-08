@@ -4,7 +4,12 @@ repositoty: kho chứa
 2. remote repositoty: kho đám mây
 
 + git init: tạo repositoty ở local
-+ git add . || git add file.vvv: Đẩy tất cả các file vào trong vùng nhớ
++ git add . || git add ...file.vvv: Đẩy tất cả các file vào trong vùng nhớ
 + git commit -m "...": đẩy từ bộ nhớ tạm thời vào local repositoty và đánh dấu 1 mốc time tại đây
 + git remote...: kết nối local repositoty với remote
 + git push origin master: đẩy những thay đổi từ local lên remote
++ git clone ...link: để clone 1 dự án public
++ git pull: kéo dữ liệu mới nhất về
+
+-> khi đã thực hiện các lệnh trên 1 lần trong cùng 1 dự án nếu muốn thay đổi chỉ cần 
+  add -> commit -> push
