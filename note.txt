@@ -6,3 +6,5 @@ repositoty: kho chứa
 + git init: tạo repositoty ở local
 + git add . : Đẩy tất cả các file vào trong vùng nhớ
 + git commit -m "...": đẩy từ bộ nhớ tạm thời vào local repositoty và đánh dấu 1 mốc time tại đây
++ git remote...: kết nối local repositoty với remote
++ git push origin master: đẩy những thay đổi từ local lên remote
